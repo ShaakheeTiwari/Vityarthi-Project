@@ -35,10 +35,4 @@ Since this is a simple single-file Python script, setup is minimal.
 
 * **Python 3.x:** You must have Python installed on your system.
 
-### 1. Clone the Repository
 
-Download the project files using Git:
-
-```bash
-git clone [YOUR_REPOSITORY_URL_HERE]
-cd simple-expense-manager
